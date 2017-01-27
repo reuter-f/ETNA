@@ -1,0 +1,64 @@
+.title
+{
+    background-color: #CBFF8C;
+    text-align: center;
+    color: #326637;
+    border-style: none none dotted none;
+    border-color: #326637;
+    border-width: 1px;
+    font-weight: bold;
+}
+
+
+.films
+{
+    float: left;
+    width:48%;
+    background-color: white;
+    //margin: 0% 10% 0% 10%;
+    min-width: 5%;
+    border-style: solid;
+    border-color: #80D11E;
+    border-width: 2px;
+    margin-bottom: 25px;
+}
+
+.series
+{
+    background-color: white;
+    //margin: 0% 10% 0% 10%;
+    min-width: 5%;
+    border-style: solid;
+    border-color: #80D11E;
+    border-width: 2px;
+    margin-bottom: 25px;
+
+    margin-left:52%;
+}
+
+.content
+{
+    padding-top:10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.films a
+{
+    color: black;
+}
+
+.series a
+{
+    color: black;
+}
+
+.films a:hover
+{
+    color: #80D11E;
+}
+
+.series a:hover
+	     {
+		 color: #80D11E;
+	     }
